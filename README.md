@@ -24,7 +24,7 @@ Therefore, it was possible to centralize the access to all static information, s
   
 ![Eletronic scheme](./PySensor.extension/PySensor.tab/Sensores.panel/leitos.pushbutton/img/eletronic-scheme.png)  
   
-<video src='./PySensor.extension/PySensor.tab/Sensores.panel/leitos.pushbutton/img/prototype.mp4' width=180/>
+![Program process](./PySensor.extension/PySensor.tab/Sensores.panel/leitos.pushbutton/img/prototype.mp4)
 
 
 
